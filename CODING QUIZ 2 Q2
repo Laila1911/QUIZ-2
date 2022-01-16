@@ -19,7 +19,7 @@ public class ArrayInStars {
 		System.out.println("Enter the number of items: ");
 		int NUM_ITEMS = quiz.nextInt();
 		
-		int[] value = {1,2,5,10};
+		int[] value = 7,4,3,0,7};
 		        printYourPattern(value);
 		    }
 
